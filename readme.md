@@ -1,4 +1,4 @@
-# ノベルスフィアデモンストレーション OSS版　#
+# ノベルスフィアデモンストレーション OSS版
 
 ## このソフトウェアについて ##
 
@@ -42,8 +42,8 @@ M+ OUTLINE FONTS はあらゆる改変の有無に関わらず、また商業的
 
 ## リンク ##
 
-ノベルスフィア
-ノベルスフィアデバロッパープログラム
-M+ FONTS
-Campus Notes - Bill of Fare - のOSS版
-4th cluster
+[ノベルスフィア](http://novelsphere.jp/)
+[ノベルスフィアデバロッパープログラム](http://developer.novelsphere.jp/)
+[M+ FONTS](http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/)
+[Campus Notes - Bill of Fare - のOSS版](https://github.com/4th-cluster/bill_of_fare)
+[4th cluster](http://4th-cluster.com/)
